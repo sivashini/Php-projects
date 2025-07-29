@@ -1,5 +1,5 @@
 # File structure consists of three folders:
 
-Admission
-Shopping
-Voting
+  Admission
+  Shopping
+  Voting
